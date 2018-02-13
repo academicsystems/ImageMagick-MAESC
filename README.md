@@ -3,7 +3,7 @@ A repo for building an ImageMagick microservice Docker image.
 
 ## Build
 
-Build the image with `build.sh`. Pass in your hostname as an argument (i.e. <hostname>/imagemagick)
+Build the image with `build.sh`. Pass in your hostname as an argument (i.e. HOSTNAME/imagemagick)
 
 ## Running
 
