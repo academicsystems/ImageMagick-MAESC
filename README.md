@@ -7,7 +7,7 @@ Build the image with `build.sh`. Pass in your hostname as an argument (i.e. <hos
 
 ## Running
 
-You can run the image with the following command (replace HOST_PORT & HOST_DIR):
+You can run the image with the following command (replace HOST_PORT,HOST_DIR,HOST_NAME):
 
 `docker run -itd -p HOST_PORT:80 -v HOST_DIR:/var/www/tmp HOST_NAME/imagemagick`
 
